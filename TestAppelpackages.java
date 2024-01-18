@@ -1,6 +1,6 @@
 import packages.*;
 
-public class Test{
+public class TestAppelpackages{
     public static void main(String[] args){
         Cnx test = new Cnx();
         test.avaty_amn_cnx();

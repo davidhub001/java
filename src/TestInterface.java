@@ -10,7 +10,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-public class Test {
+public class TestInterface {
 
     public static void main(String[] args) {
         // Chargement du pilote JDBC
