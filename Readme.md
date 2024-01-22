@@ -13,3 +13,11 @@ java -cp .:../lib/mysql-connector-j-8.3.0.jar src.*****
 javac *.java
 
 java *
+
+## lancement un par un ex
+
+javac -cp .:mysql-connector-java-<version>.jar com/example/Client.java
+javac -cp .:mysql-connector-java-<version>.jar Main.java
+
+java -cp .:mysql-connector-java-<version>.jar Main
+
